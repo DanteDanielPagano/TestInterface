@@ -14,6 +14,7 @@ internal class LaserPrinter : IPrinter
         else
         {
             Console.WriteLine("Impresora fuera de línea");
+            // esta línea es nueva
         }
 
     }
